@@ -64,7 +64,7 @@ export default function Home() {
         <Container className="relative z-10">
           <div className=" lg:mx-0 lg:w-full lg:pr-0">
             <h2 className="font-display text-4xl font-medium tracking-tighter text-green-600 sm:text-5xl">
-              Sambutan Ketua Kelompok
+              Sambutan Ketua Kelompok Yang Paling Ganteng
             </h2>
             <div className="mt-4 flex flex-col font-display text-lg tracking-tight text-green-900 sm:text-2xl">
               <div>
